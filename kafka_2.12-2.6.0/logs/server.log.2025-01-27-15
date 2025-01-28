@@ -1,0 +1,8 @@
+[2025-01-27 15:08:18,810] INFO [GroupMetadataManager brokerId=0] Group spark-kafka-source-e6513534-ffae-4d01-8a41-62f878d59e97-1005976475-driver-0 transitioned to Dead in generation 2 (kafka.coordinator.group.GroupMetadataManager)
+[2025-01-27 15:08:18,811] INFO [GroupMetadataManager brokerId=0] Group spark-kafka-source-a6e49f6d-2f68-4505-aa7e-8a4768e705dc-739024620-driver-0 transitioned to Dead in generation 2 (kafka.coordinator.group.GroupMetadataManager)
+[2025-01-27 15:08:18,811] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 1 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2025-01-27 15:18:18,810] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2025-01-27 15:28:18,810] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2025-01-27 15:38:18,810] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2025-01-27 15:48:18,810] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2025-01-27 15:58:18,810] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
